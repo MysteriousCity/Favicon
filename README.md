@@ -1,5 +1,4 @@
 # Favicon
-
 <head>在您的頁面部分插入以下程式碼：
 <link rel="apple-touch-icon" sizes="180x180" href="https://github.com/MysteriousCity/Favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://github.com/MysteriousCity/Favicon/favicon-32x32.png">
